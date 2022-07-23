@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Jun  9 20:58:19 2021
+# Process ID: 13844
+# Current directory: D:/Xilinx/Vivado/projects/74x138/74x138.runs/synth_1
+# Command line: vivado.exe -log tb_74X138.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source tb_74X138.tcl
+# Log file: D:/Xilinx/Vivado/projects/74x138/74x138.runs/synth_1/tb_74X138.vds
+# Journal file: D:/Xilinx/Vivado/projects/74x138/74x138.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source tb_74X138.tcl -notrace

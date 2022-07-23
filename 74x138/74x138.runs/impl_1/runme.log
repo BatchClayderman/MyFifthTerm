@@ -1,0 +1,20 @@
+
+*** Running vivado
+    with args -log tb_74X138.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source tb_74X138.tcl -notrace
+
+
+****** Vivado v2017.4 (64-bit)
+  **** SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+  **** IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+    ** Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+
+source tb_74X138.tcl -notrace
+
+*** Halting run - EA reset detected ***
+
+
+
+    while executing
+"start_step init_design"
+    (file "tb_74X138.tcl" line 64)
+INFO: [Common 17-206] Exiting Vivado at Wed Jun  9 20:58:18 2021...
