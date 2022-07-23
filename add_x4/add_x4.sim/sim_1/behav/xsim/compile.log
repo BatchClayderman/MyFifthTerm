@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/projects/add_x4/add_x4.srcs/sources_1/new/add_x4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_x4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/projects/add_x4/add_x4.srcs/sim_1/new/sim_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_1
+INFO: [VRFC 10-2458] undeclared symbol V, assumed default net type wire [D:/Xilinx/projects/add_x4/add_x4.srcs/sim_1/new/sim_1.v:34]
